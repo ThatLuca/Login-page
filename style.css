@@ -6,3 +6,9 @@ body {
     text-align: center;
     margin-top: 500px;
 }
+
+@media screen and (min-height: 540px) {
+    #signUp {
+        margin-top: 270px;
+    }
+}
