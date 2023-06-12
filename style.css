@@ -1,12 +1,14 @@
 body {
-    background-color: whitesmoke;
+    background-color: lightskyblue
 }
 
 #signUp {
+    background-color: whitesmoke;
+    margin: auto;
     text-align: center;
     width: 50%;
     height: 50%;
-    margin-top: 450px;
+    top: 50%;
 }
 
 @media screen and (max-height: 540px) {
