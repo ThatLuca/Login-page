@@ -3,7 +3,7 @@ body {
 }
 
 #signUp {
-    background-color: whitesmoke;
+    background: none;
     margin: auto;
     text-align: center;
     left: 50%;
