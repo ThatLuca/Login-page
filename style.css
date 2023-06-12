@@ -15,11 +15,13 @@ body {
 
 #signUp button {
     background: none;
+    cursor: pointer;
+    border: none;
 }
 
 #signUp button img {
-    height: 50%;
-    width: 50%;
+    height: 12%;
+    width: 12%;
 }
 /* 
 @media screen and (max-height: 540px) {
