@@ -10,9 +10,9 @@ body {
     height: 50%;
     top: 50%;
 }
-
+/* 
 @media screen and (max-height: 540px) {
     #signUp {
         margin-top: 270px;
     }
-}
+} */
