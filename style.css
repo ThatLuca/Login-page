@@ -4,10 +4,10 @@ body {
 
 #signUp {
     text-align: center;
-    margin-top: 500px;
+    margin-top: 450px;
 }
 
-@media screen and (min-height: 540px) {
+@media screen and (max-height: 540px) {
     #signUp {
         margin-top: 270px;
     }
