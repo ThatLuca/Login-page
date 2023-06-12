@@ -12,6 +12,15 @@ body {
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
+
+#signUp button {
+    background: none;
+}
+
+#signUp button img {
+    height: 50%;
+    width: 50%;
+}
 /* 
 @media screen and (max-height: 540px) {
     #signUp {
