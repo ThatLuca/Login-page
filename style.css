@@ -1,12 +1,7 @@
 body {
     background-color: whitesmoke;
 }
-.nav {
-    background-color: darkgray;
-}
-.nav a {
-    color: black;
-}
-.nav a:hover {
-    color: #111112;
+
+#signUp {
+    
 }
